@@ -1,6 +1,6 @@
 public class ClassTest {
 
     public static void main (String ... args) {
-        System.out.println("first to IDE9");
+        System.out.println("first to IDE10");
     }
 }
